@@ -1,0 +1,11 @@
+intelligent-voice-finance-chatbot/
+│
+├── app.py                 
+├── prompts.py          
+├── retrieval.py           
+├── voice_handler.py      
+├── config.py               
+├── requirements.txt         
+├── README.md               
+└── data/
+    └── financial_faq.json  
