@@ -21,6 +21,9 @@ Tech Stack
  Setup Instructions
 
 1. Clone the repository  
+https://github.com/Charanlokesh22/Intelligent-Voice-Optimized-Finance-Chatbot
+
+
 2. Create a virtual environment and activate it:
 
 3. Install dependencies:
